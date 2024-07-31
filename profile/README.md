@@ -5,22 +5,29 @@
   <tr>
     <td><strong>서제호</strong></td>
     <td><strong>유재영</strong></td>
-   
+    <td><strong>신정섭</strong></td>
   </tr>
+
   <tr>
-    <td><img src="https://github.com/Tea-Bliss/BE_Tea_Bliss/assets/127959482/fe573cb7-1fee-4686-8353-2e81f4761754"
- alt="서제호" width="100" height="100"></td>
-    <td><img src="https://github.com/user-attachments/assets/70fd5beb-98ef-4924-917f-d9d4d29ed109"
- alt="유재영" width="100" height="100"></td>
-   
+    <td>
+      <img src="https://github.com/Tea-Bliss/BE_Tea_Bliss/assets/127959482/fe573cb7-1fee-4686-8353-2e81f4761754" alt="서제호" width="100" height="100">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/70fd5beb-98ef-4924-917f-d9d4d29ed109" alt="유재영" width="100" height="100">
+    </td>
+    <td>
+      <img src="https://i.imgur.com/UeCWDni.jpeg" alt="신정섭" width="100" height="100">
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
-    <td><a href="https://github.com/Jy7733">@Jy7733</a></td>
+    <td><a href="https://github.com/mun9659">@mun9659</a></td>
+    <td><a href="https://github.com/ShinSub98">@ShinSub98</a></td>
   </tr>
 </table>
 
 # STACK
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)   ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)    ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)  ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)  ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  ![](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
 
 # Commit Message
@@ -52,3 +59,4 @@
 | ✍      | TL;DR       | (Too Long; Didn't Read) 보통 문장 앞 부분에 긴 글을 요약할 때 쓰인다.                           |
 | ✍      | PTAL        | (Please Take Another Look) 제발 좀 봐주세요. 리뷰어가 리뷰를 해주다가 중간에 stop된 상태에서 리뷰좀 해달라고 부탁할때 쓰는 것으로 보인다. |
 | ✍      | AFAIK       | (As Far As I Know) 내가 알기에는, 내가 기억하는 한                                               |
+
