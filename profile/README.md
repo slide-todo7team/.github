@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/lemonticsoul">@lemonticsoul</a></td>
-    <td><a href="https://github.com/mun9659">@mun9659</a></td>
+    <td><a href="https://github.com/Jy7733">@Jy7733</a></td>
     <td><a href="https://github.com/ShinSub98">@ShinSub98</a></td>
   </tr>
 </table>
